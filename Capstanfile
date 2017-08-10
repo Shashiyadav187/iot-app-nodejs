@@ -1,0 +1,7 @@
+base: cloudius/osv-node
+
+cmdline: /libnode.so /server.js
+
+files:
+  /server.js: server.js
+  
